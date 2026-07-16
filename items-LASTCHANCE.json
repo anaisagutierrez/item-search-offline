@@ -313658,6 +313658,7 @@
   },
   {
     "ITEM": 1906653,
+    "DESCRIPTION": "BR WIDE LEG DRESS PA",
     "QTY": 1,
     "SELL PRICE": 26.99,
     "SALVAGE %": 20,
@@ -314101,21 +314102,6 @@
     "GREAT PRICE WITH 30% FROM COSTCO3": 8.743,
     "GREAT PRICE WITH 40% FROM COSTCO2": 7.494,
     "GREAT PRICE WITH 50% FROM COSTCO22": 6.245,
-    "Vendedor ": "BRIGHTON"
-  },
-  {
-    "ITEM": 1924481,
-    "QTY": 1,
-    "SELL PRICE": 24.99,
-    "SALVAGE %": 20,
-    "GREAT DEALS PRICE COST": 4.997999999999999,
-    "GREAT PRICE WITH 10% FROM COSTCO": 22.491,
-    "GREAT PRICE WITH 15% FROM COSTCO2": 21.2415,
-    "GREAT PRICE WITH 20% FROM COSTCO": 19.992,
-    "GREAT PRICE WITH 25% FROM COSTCO": 18.7425,
-    "GREAT PRICE WITH 30% FROM COSTCO3": 17.493,
-    "GREAT PRICE WITH 40% FROM COSTCO2": 14.993999999999998,
-    "GREAT PRICE WITH 50% FROM COSTCO22": 12.495,
     "Vendedor ": "BRIGHTON"
   },
   {
@@ -320017,6 +320003,7 @@
   },
   {
     "ITEM": 3821003,
+    "DESCRIPTION": "COMFORTER SET DB/",
     "QTY": 1,
     "SELL PRICE": 69.99,
     "SALVAGE %": 30,
@@ -320466,6 +320453,7 @@
   },
   {
     "ITEM": 1927665,
+    "DESCRIPTION": "BENCH FULL ZIP XXL",
     "QTY": 1,
     "SELL PRICE": 29.99,
     "SALVAGE %": 20,
@@ -323120,6 +323108,7 @@
   },
   {
     "ITEM": 1940800,
+    "DESCRIPTION": "TRUFFETTES DE FRANCE",
     "QTY": 1,
     "SELL PRICE": 14.99,
     "SALVAGE %": 30,
@@ -325504,6 +325493,7 @@
   },
   {
     "ITEM": 1572565,
+    "DESCRIPTION": "ARABELLA ARIA 5X7 BE",
     "QTY": 1,
     "SELL PRICE": 179.99,
     "SALVAGE %": 30,
@@ -332643,6 +332633,7 @@
   },
   {
     "ITEM": 1898253,
+    "DESCRIPTION": "ADIDAS FLEECE HOODIE",
     "QTY": 1,
     "SELL PRICE": 26.99,
     "SALVAGE %": 20,
@@ -336077,6 +336068,7 @@
   },
   {
     "ITEM": 3101023,
+    "DESCRIPTION": "SUNICE LINED PANT XL",
     "QTY": 1,
     "SELL PRICE": 22.99,
     "SALVAGE %": 20,
@@ -341371,6 +341363,7 @@
   },
   {
     "ITEM": 1986200,
+    "DESCRIPTION": "BERKSHIRE COOL BLANK",
     "QTY": 1,
     "SELL PRICE": 34.99,
     "SALVAGE %": 30,
@@ -341430,6 +341423,7 @@
   },
   {
     "ITEM": 1988525,
+    "DESCRIPTION": "BRALS LW RAIN JKT S",
     "QTY": 1,
     "SELL PRICE": 67.99,
     "SALVAGE %": 20,
@@ -342344,6 +342338,7 @@
   },
   {
     "ITEM": 1253037,
+    "DESCRIPTION": "ORIGINAL STROOPWAFEL",
     "QTY": 1,
     "SELL PRICE": 13.99,
     "SALVAGE %": 30,
@@ -344818,6 +344813,7 @@
   },
   {
     "ITEM": 1864326,
+    "DESCRIPTION": "PUMA ACTIVE 1/4 ZIP",
     "QTY": 1,
     "SELL PRICE": 26.99,
     "SALVAGE %": 20,
@@ -349407,6 +349403,7 @@
   },
   {
     "ITEM": 1858183,
+    "DESCRIPTION": " PKT PANT 30X30 G",
     "QTY": 1,
     "SELL PRICE": 28.99,
     "SALVAGE %": 20,
@@ -349631,6 +349628,7 @@
   },
   {
     "ITEM": 1940474,
+    "DESCRIPTION": "KS FLARE LEGGING S B",
     "QTY": 1,
     "SELL PRICE": 29.99,
     "SALVAGE %": 20,
@@ -350380,6 +350378,7 @@
   },
   {
     "ITEM": 1772505,
+    "DESCRIPTION": "HAGGAR SUIT JACKET 4",
     "QTY": 1,
     "SELL PRICE": 99.99,
     "SALVAGE %": 20,
@@ -355644,6 +355643,7 @@
   },
   {
     "ITEM": 1969592,
+    "DESCRIPTION": " HEAD MENS JOGGERS XL",
     "QTY": 1,
     "SELL PRICE": 24.99,
     "SALVAGE %": 20,
@@ -355703,6 +355703,7 @@
   },
   {
     "ITEM": 2003966,
+    "DESCRIPTION": "QUIKSILVR FT JOG L L",
     "QTY": 1,
     "SELL PRICE": 24.99,
     "SALVAGE %": 20,
@@ -355717,6 +355718,7 @@
   },
   {
     "ITEM": 1983081,
+    "DESCRIPTION": "BENCH TWL PANT L GRY",
     "QTY": 1,
     "SELL PRICE": 29.99,
     "SALVAGE %": 20,
@@ -356631,6 +356633,7 @@
   },
   {
     "ITEM": 1981942,
+    "DESCRIPTION": "SEGMA RAVINA 7'10\"XI",
     "QTY": 1,
     "SELL PRICE": 369.99,
     "SALVAGE %": 30,
@@ -358295,6 +358298,7 @@
   },
   {
     "ITEM": 1973262,
+    "DESCRIPTION": "SM MEN'S KNIT SHOE 1",
     "QTY": 1,
     "SELL PRICE": 56.99,
     "SALVAGE %": 20,
@@ -360094,6 +360098,7 @@
   },
   {
     "ITEM": 1972905,
+    "DESCRIPTION": "TH S/S CABLE SWEATER",
     "QTY": 1,
     "SELL PRICE": 19.99,
     "SALVAGE %": 20,
@@ -360798,6 +360803,7 @@
   },
   {
     "ITEM": 1442000,
+    "DESCRIPTION": "BENCH SOFTSHELL S]",
     "QTY": 1,
     "SELL PRICE": 34.99,
     "SALVAGE %": 20,
@@ -375182,6 +375188,7 @@
   },
   {
     "ITEM": 1956216,
+    "DESCRIPTION": "RUGGABLE LORA 5 ' X7 '",
     "QTY": 1,
     "SELL PRICE": 239.99,
     "SALVAGE %": 30,
